@@ -1,0 +1,3 @@
+strategy,average_final_pnl,pnl_standard_deviation,average_absolute_final_delta
+unhedged,2.6945469605535126,41.972394857921245,2.368003757739436
+delta_hedged,2.8031186499341176,13.143715962129884,4.440892098500626e-19
